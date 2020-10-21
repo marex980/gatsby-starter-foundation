@@ -1,11 +1,15 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: ZASTO NE VOLIM
+tagline: I ZASTO SE TO NECE NIKADA PROMENITI
+featuredImage: /assets/dislike.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+<!--StartFragment-->
+
+Sajt sa opisom svih zivotnih cinjenica kroz koje prolazi svaka prosecna osoba u ovoj zemlji
+
+<!--EndFragment-->
