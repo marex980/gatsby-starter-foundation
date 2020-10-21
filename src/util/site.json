@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "ZASTO NE VOLIM",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Sajt sa opisom svih zivotnih cinjenica kroz koje prolazi svaka prosecna osoba u ovoj zemlji",
+    "siteUrl": "https://zastonevolim.netlify.app",
+    "image": "/assets/marko_radanovic_lthumb.jpg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
