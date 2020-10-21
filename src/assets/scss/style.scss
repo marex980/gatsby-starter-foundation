@@ -358,7 +358,9 @@ article img {
 .site-footer {
 	display: flex;
 	align-items: center;
-  background: #eee;
+ 	background: 
+		linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+		linear-gradient(#4e4376, #2b5876);
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
