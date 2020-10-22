@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: ZASTO NE VOLIM
 tagline: I ZASTO SE TO NECE NIKADA PROMENITI
-featuredImage: /assets/dislike-min.jpg
+featuredImage: /assets/dislike-large.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
