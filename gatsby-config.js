@@ -79,13 +79,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Zasto ne volim`,
+        short_name: `ZNV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        theme_color: `#42426f`,
         display: `standalone`,
-        icon: `static/assets/stackrole.png`,
+        icon: `static/assets/dislike-min.jpg`,
       },
     },
     'gatsby-plugin-offline',
