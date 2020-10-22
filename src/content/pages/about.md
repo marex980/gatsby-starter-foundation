@@ -1,6 +1,6 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: O meni...
 ---
 *Neki* **tekst** o nama
