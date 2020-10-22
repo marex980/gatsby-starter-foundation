@@ -78,7 +78,9 @@ box-shadow: 0px 15px 24px -8px rgba(6,20,48,1);
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+      background: 	
+	linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)),
+	linear-gradient(#4e4376, #2b5876);;
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -93,7 +95,7 @@ box-shadow: 0px 15px 24px -8px rgba(6,20,48,1);
       padding: 20px;
     }
     a:hover {
-      background-color: #29121D;
+      background-color: #2b5876;
     }
   }
 }
