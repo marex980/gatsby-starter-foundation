@@ -314,6 +314,8 @@ article img {
     position: relative;
     overflow: hidden;
     z-index: 1;
+    min-width: 150px;
+    text-align: center;
     &:after {
         content: '';
         position: absolute;
