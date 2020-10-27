@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Vozačka nekultura
-slug: vozacka-nekultura
+slug: blog/vozacka-nekultura
 date: 2020-10-27 10:41
 description: nekulturni vozaci, nasilno presecanje u saobracaju, zmigavac pri skretanju
 featuredImage: /assets/monkey-brain-at-the-wheel.jpg
