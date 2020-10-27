@@ -255,8 +255,10 @@ article img {
 
 .blog-post {
 	.featured-image {
-		min-height: 50vh;
+		//min-height: 50vh;
 		border-radius: 12px;
+	    	max-width: inherit;
+    		max-height: inherit;
 	}
 }
 // Buttons 
