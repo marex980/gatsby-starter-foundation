@@ -257,8 +257,8 @@ article img {
 	.featured-image {
 		//min-height: 50vh;
 		border-radius: 12px;
-	    	max-width: inherit;
-    		max-height: inherit;
+		min-width: 100%;
+    		min-height: 40vh;
 	}
 }
 // Buttons 
