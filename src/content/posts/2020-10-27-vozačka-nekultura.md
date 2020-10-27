@@ -4,7 +4,7 @@ title: Vozačka nekultura
 slug: vozacka-nekultura
 date: 2020-10-27 10:41
 description: nekulturni vozaci, nasilno presecanje u saobracaju, zmigavac pri skretanju
-featuredImage: ""
+featuredImage: /assets/majmun-za-volanom.jpg
 ---
 <!--StartFragment-->
 
