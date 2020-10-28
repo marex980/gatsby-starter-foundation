@@ -259,6 +259,9 @@ article img {
 		border-radius: 12px;
 		min-width: 100%;
     		min-height: 40vh;
+		img {
+			object-position: top center;!important
+		}
 	}
 }
 // Buttons 
